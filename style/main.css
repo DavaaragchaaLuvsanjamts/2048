@@ -90,10 +90,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Оноо"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Шилдэг"; }
 
 p {
   margin-top: 0;
@@ -176,7 +176,7 @@ hr {
       font-size: 60px;
       font-weight: bold;
       height: 60px;
-      line-height: 60px;
+      line-height: 50px;
       margin-top: 222px; }
     .game-container .game-message .lower {
       display: block;
